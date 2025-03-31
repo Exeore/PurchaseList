@@ -96,6 +96,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "tradercaravan",
+		"price": 6000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "orbitaltraderarrival",
 		"price": 3500,
 		"karmatype": "Good"
@@ -104,6 +109,11 @@
 		"abr": "meteor",
 		"price": 900,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 4200,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -161,6 +171,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 2400,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 6800,
 		"karmatype": "Bad"
@@ -211,6 +226,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1000,
 		"karmatype": "Good"
@@ -229,6 +249,11 @@
 		"abr": "genderswap",
 		"price": 2,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 26000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
@@ -346,5 +371,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 69
+	"total": 74
 }
